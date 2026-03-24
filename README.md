@@ -1,7 +1,7 @@
 !-- BANNER TOPO (AMARELO) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Davi Fernandes&fontColor=1a1a1a&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:facc15,50:eab308,100:ca8a04"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Davi%20Fernandes&fontColor=1a1a1a&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:facc15,50:eab308,100:ca8a04"
     alt="banner"
   />
 </p>
