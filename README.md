@@ -16,7 +16,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&hide_progress=false&theme=radical&layout=compact)
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="Python" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
