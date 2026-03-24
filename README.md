@@ -1,8 +1,18 @@
-### Olá! Eu sou o Davi
+!-- BANNER TOPO (AMARELO) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Davi Fernandes&fontColor=1a1a1a&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=0:facc15,50:eab308,100:ca8a04"
+    alt="banner"
+  />
+</p>
 
-- 🔭 Desenvolvedor Front-end
-- 🌱 Estudando Back-end
-- 😄 Pronouns:Ele/Dele
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%7C+Java+%26+Spring+Boot;Desenvolvendo+APIs+REST+robustas+e+escal%C3%A1veis.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias."
+    alt="Texto animado"
+  />
+</p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&hide_progress=false&theme=radical&layout=compact)
