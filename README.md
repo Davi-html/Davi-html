@@ -36,7 +36,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
   <img align="center" alt="AWS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    src="https://aws-icons.svg.zone/images/Architecture-Group-Icons/AWS-Cloud-logo_32.svg">
 </div>
 
 ##
