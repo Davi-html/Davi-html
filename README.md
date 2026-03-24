@@ -17,14 +17,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&hide_progress=false&theme=radical&layout=compact)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Apache Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
-  <img align="center" alt="Apache Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-  wordmark.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="R" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+
+  <img align="center" alt="Apache Spark" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
+
+  <img align="center" alt="Apache Airflow" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
+
+  <img align="center" alt="Docker" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  <img align="center" alt="AWS" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
 ##
