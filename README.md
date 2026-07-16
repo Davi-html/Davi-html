@@ -50,8 +50,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&layout=compact&hide_progress=false&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Davi-html/Davi-html/output/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Davi-html/Davi-html/output/generated/languages.svg" />
 </p>
 
 <p align="center">
