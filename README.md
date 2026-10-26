@@ -7,10 +7,7 @@
 
 <!-- FRASE ANIMADA -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=An%C3%A1lise+de+Dados+%7C+Python+%26+R;Desenvolvendo+ETLs+rob%C3%B4s+e+escal%C3%A1veis.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias."
-    alt="Texto animado"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=2600&pause=800&color=EAB308&center=true&vCenter=true&width=900&lines=Engenharia+de+dados.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.+;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias.;Sphinx+of+black+quartz%2C+judge+my+vow" alt="Typing SVG" />
 </p>
 
 <p align="center">
