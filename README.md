@@ -40,6 +40,11 @@
   <img align="center" alt="Apache Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks/FF3621" />
+  <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-power-bi.svg" />
 </p>
 
 ---
