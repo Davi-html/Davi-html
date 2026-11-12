@@ -123,12 +123,12 @@ Sistema de avaliação de desempenho com autenticação, controle de acesso, dif
 ## 04. Estatísticas do GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EAB308&icon_color=EAB308&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&layout=compact&hide_border=true&bg_color=0D1117&title_color=EAB308&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-html&bg_color=0D1117&color=EAB308&line=EAB308&point=FACC15&area=true&hide_border=true" alt="Atividade do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-html&theme=github-compact&hide_border=true" width="95%" alt="Atividade do GitHub" />
 </p>
 
 ---
