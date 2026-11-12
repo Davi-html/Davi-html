@@ -1,144 +1,174 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Davi%20Fernandes%20Alves&fontColor=1a1a1a&fontAlign=50&fontAlignY=38&fontSize=52&desc=ENGENHARIA%20E%20AN%C3%81LISE%20DE%20DADOS&descSize=17&descAlignY=60&animation=twinkling&color=0:facc15,50:eab308,100:ca8a04" width="100%" />
+ 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1a1a,100:EAB308&text=Davi%20Fernandes%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=48&desc=Engenharia%20e%20An%C3%A1lise%20de%20Dados&descSize=19&descAlignY=58"
+    width="100%"
+    alt="Davi Fernandes Alves — Engenharia e Análise de Dados"
+  />
+</p>
+
+<h1 align="center">Olá, eu sou o Davi! 👋</h1>
+
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Dados & Tecnologia</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3000&pause=1000&color=EAB308&center=true&vCenter=true&width=750&lines=Transformando+dados+em+informa%C3%A7%C3%A3o.;Desenvolvendo+pipelines+de+dados.;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis." alt="Apresentação" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davi-fernandes-alves-1a48b1273/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=EAB308" /></a>
-  <a href="mailto:davifernandes3674@gmail.com"><img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=EAB308" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ABERTO%20A%20OPORTUNIDADES-EAB308?style=flat-square&labelColor=111111" />
+  <a href="https://www.linkedin.com/in/davi-fernandes-alves-1a48b1273/">
+    <img src="https://img.shields.io/badge/LinkedIn-EAB308?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn" />
+  </a>
+  <a href="mailto:davifernandes3674@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EAB308?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail" />
+  </a>
+  <a href="https://github.com/Davi-html">
+    <img src="https://img.shields.io/badge/GitHub-EAB308?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ## 01. Sobre mim
 
-Atuo com **Análise e Engenharia de Dados**, desenvolvendo soluções que conectam tecnologia, automação e inteligência de negócios.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em transformar dados em informações relevantes e soluções que gerem valor para as organizações.
 
-Tenho interesse em todo o ciclo de vida dos dados: desde a extração e integração até o processamento, armazenamento e disponibilização de informações.
+Atualmente, direciono meus estudos e projetos para **Análise de Dados e Engenharia de Dados**, buscando aprofundar meus conhecimentos em programação, automação, processamento e infraestrutura de dados.
 
-Minha experiência envolve automação de processos com Python, desenvolvimento de dashboards com Power BI e construção de soluções para integração e processamento de dados.
+Tenho experiência prática com desenvolvimento de dashboards, automação de processos e integração de dados, utilizando ferramentas como Python, SQL, Excel e Power BI.
 
-**Áreas de interesse**
-- Engenharia de Dados e arquitetura ETL
-- Processamento distribuído com Apache Spark e PySpark
-- Orquestração de pipelines com Apache Airflow
-- Bancos de dados e modelagem SQL
-- Computação em nuvem e arquitetura AWS
+Meu objetivo é evoluir continuamente na construção de soluções que envolvam todo o ciclo de vida dos dados, desde a extração até a disponibilização para análise.
 
 ---
 
-## 02. Stack tecnológica
+## 02. Tecnologias e ferramentas
 
-**Linguagens de programação**
+**Linguagens**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,sql" alt="Python, TypeScript, JavaScript e SQL" />
 </p>
 
-**Engenharia de dados e processamento**
+**Engenharia e processamento de dados**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="42" alt="Apache Spark" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="42" alt="Databricks" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
-</p>
-
-**Bancos de dados**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=apache" alt="Apache" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL e MySQL" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
 </p>
 
 **Cloud e infraestrutura**
 
 <p>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="42" alt="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/minio/C72E49" height="42" alt="MinIO" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="AWS, Docker e Linux" />
 </p>
 
-**Business Intelligence**
+**Análise e visualização**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-power-bi.svg" height="42" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
-**Desenvolvimento**
+**Desenvolvimento e ferramentas**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,vscode" alt="React, Node.js, Git e VS Code" />
 </p>
 
 ---
 
 ## 03. Projetos em destaque
 
-### ⚙️ API Hygia
-
-**Engenharia de Dados · ETL**
-
-Projeto de integração e processamento de dados, com pipelines automatizados, orquestração de tarefas e armazenamento em diferentes camadas.
-
-**Tecnologias:** Python · PySpark · Apache Spark · Airflow · Docker · MinIO
-
-[↗ Acessar repositório](https://github.com/Davi-html/api-hygia)
-
----
-
-### 📊 Avaliação 360
-
-**Desenvolvimento Full Stack**
-
-Sistema de avaliação de desempenho com autenticação, controle de acesso, diferentes modalidades de avaliação e gerenciamento de dados.
-
-**Tecnologias:** React · TypeScript · Node.js · PostgreSQL
-
-[↗ Acessar repositório](https://github.com/Davi-html/avaliacao-360)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">API Hygia</h3>
+      <p align="center">
+        <a href="https://github.com/Davi-html/api-hygia">
+          <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-EAB308?style=for-the-badge&logo=github&logoColor=111111" alt="Acessar API Hygia" />
+        </a>
+      </p>
+      <p>
+        Projeto de integração e processamento de dados voltado à construção de pipelines ETL, organização de dados em camadas e armazenamento em formato analítico.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Avaliação 360 — SAMU</h3>
+      <p align="center">
+        <a href="https://github.com/Davi-html/avaliacao-360">
+          <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-EAB308?style=for-the-badge&logo=github&logoColor=111111" alt="Acessar Avaliação 360" />
+        </a>
+      </p>
+      <p>
+        Sistema de avaliação de desempenho desenvolvido para o SAMU, com diferentes modalidades de avaliação, autenticação, controle de acesso e gerenciamento de usuários.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 04. Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi-html&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-html&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Linguagens mais utilizadas" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-html&theme=github_dark"
+    width="100%"
+    alt="Resumo do perfil GitHub"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-html&theme=github-compact&hide_border=true" width="95%" alt="Atividade do GitHub" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-html&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davi-html&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
 
+## 05. Contato
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davi-html&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=EAB308&style=flat-square" alt="Visualizações" />
+  Estou aberto a oportunidades, conexões e projetos relacionados a tecnologia, dados e desenvolvimento.
 </p>
 
 <p align="center">
-  <i>Engenharia de dados. Tecnologia. Evolução contínua.</i>
+  <a href="https://www.linkedin.com/in/davi-fernandes-alves-1a48b1273/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-EAB308?style=for-the-badge&logo=linkedin&logoColor=111111" />
+  </a>
+  <a href="mailto:davifernandes3674@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EAB308?style=for-the-badge&logo=gmail&logoColor=111111" />
+  </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:eab308,100:ca8a04&height=100&section=footer" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Davi-html&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=EAB308&style=flat" alt="Visualizações do perfil" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAB308,100:1a1a1a&height=100&section=footer" width="100%" />
+</p>
