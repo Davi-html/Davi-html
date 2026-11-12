@@ -1,4 +1,3 @@
- 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a1a1a,100:EAB308&text=Davi%20Fernandes%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&fontSize=48&desc=Engenharia%20e%20An%C3%A1lise%20de%20Dados&descSize=19&descAlignY=58"
@@ -10,24 +9,26 @@
 <h1 align="center">Olá, eu sou o Davi! 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Dados & Tecnologia</strong>
+  <strong>Dados & Tecnologia</strong>
+</p>
+
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=2600&pause=800&color=EAB308&center=true&vCenter=true&width=900&lines=Engenheiro+de+dados.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.+;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davi-fernandes-alves-1a48b1273/">
-    <img src="https://img.shields.io/badge/LinkedIn-EAB308?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn" />
-  </a>
   <a href="mailto:davifernandes3674@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EAB308?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail" />
+    <img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Davi-html">
-    <img src="https://img.shields.io/badge/GitHub-EAB308?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/davi-fernandes-alves-1a48b1273/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 01. Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em transformar dados em informações relevantes e soluções que gerem valor para as organizações.
 
@@ -39,48 +40,23 @@ Meu objetivo é evoluir continuamente na construção de soluções que envolvam
 
 ---
 
-## 02. Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,sql" alt="Python, TypeScript, JavaScript e SQL" />
-</p>
-
-**Engenharia e processamento de dados**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=apache" alt="Apache" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL e MySQL" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
-</p>
-
-**Cloud e infraestrutura**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="AWS, Docker e Linux" />
-</p>
-
-**Análise e visualização**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-</p>
-
-**Desenvolvimento e ferramentas**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,vscode" alt="React, Node.js, Git e VS Code" />
+<p align="left">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+  <img align="center" alt="Apache Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks/FF3621" />
+  <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-power-bi.svg" />
 </p>
 
 ---
 
-## 03. Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -125,32 +101,20 @@ Meu objetivo é evoluir continuamente na construção de soluções que envolvam
 
 ---
 
-## 04. Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-html&theme=github_dark"
-    width="100%"
-    alt="Resumo do perfil GitHub"
-  />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Davi-html&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davi-html&layout=compact&hide_progress=false&theme=radical" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davi-html&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davi-html&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Linguagens mais utilizadas"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davi-html&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 05. Contato
+## Contato
 
 <p align="center">
   Estou aberto a oportunidades, conexões e projetos relacionados a tecnologia, dados e desenvolvimento.
