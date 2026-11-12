@@ -34,17 +34,39 @@ Meu objetivo é evoluir continuamente na construção de soluções que envolvam
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
+
+**Linguagens de Programação**
 
 <p align="left">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</p>
+
+**Banco de Dados**
+
+<p align="left">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+</p>
+
+**Engenharia e Processamento de Dados**
+
+<p align="left">
+  <img align="center" alt="Apache Spark / PySpark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
   <img align="center" alt="Apache Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Databricks" height="40" width="40" src="https://cdn.simpleicons.org/databricks/FF3621" />
+</p>
+
+**Cloud e Infraestrutura**
+
+<p align="left">
+  <img align="center" alt="Amazon Web Services (AWS)" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</p>
+
+**Análise e Visualização de Dados**
+
+<p align="left">
   <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-power-bi.svg" />
 </p>
 
@@ -95,7 +117,7 @@ Meu objetivo é evoluir continuamente na construção de soluções que envolvam
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Davi-html&show_icons=true&theme=radical&count_private=true" />
