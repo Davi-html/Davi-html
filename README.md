@@ -6,12 +6,6 @@
   />
 </p>
 
-<h1 align="center">Olá, eu sou o Davi! 👋</h1>
-
-<p align="center">
-  <strong>Dados & Tecnologia</strong>
-</p>
-
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=2600&pause=800&color=EAB308&center=true&vCenter=true&width=900&lines=Engenheiro+de+dados.;Apaixonado+por+solu%C3%A7%C3%B5es+bem+estruturadas.+;Em+busca+de+excel%C3%AAncia+t%C3%A9cnica+todos+os+dias." alt="Typing SVG" />
